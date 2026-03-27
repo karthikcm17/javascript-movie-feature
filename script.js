@@ -1,5 +1,5 @@
 const movies = [
-    {id: 1, title: "Inception", genre: "Thriller", year: 2010, rating: 8.8, img: "Assets/inception.jpg"},
+    {id: 1, title: "Inception", genre: "Thriller", year: 2010, rating: 8.8, img: "Assets/Inception.jpg"},
     {id: 2, title: "Dark Knight", genre: "Action", year: 2011, rating: 9.0, img: "Assets/Dark night.jpg"},
     {id: 3, title: "Interstellar", genre: "Sci-Fi", year: 2014, rating: 8.6, img: "Assets/Interstellar.jpg"},
     {id: 4, title: "John Wick", genre: "Action", year: 2014, rating: 7.4, img: "Assets/John.jpg"},
